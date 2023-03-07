@@ -14,7 +14,7 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
 
 @RunWith(SpringRunner.class)
- @SpringBootTest
+@SpringBootTest
 public class CustomerRepositoryTest {
     @Autowired
     CustomerRepository CustomTestrepo;
